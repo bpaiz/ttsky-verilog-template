@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is a modification of the "rings" template, functionality of inputs 0 and 1 remains equal, but now the inputs bits from 5 to 7 changes the design origin.
 
 ## How to test
 
-Explain how to use your project
+Change the input bits from 5 to 7 to change the origin of the rings between 8 different places in the screen.
 
 ## External hardware
 
